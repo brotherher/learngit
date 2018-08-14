@@ -1,2 +1,1 @@
-Git is a distributed version control system.
-Git is free software.
+All python programs are in the folder
